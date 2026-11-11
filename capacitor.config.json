@@ -1,0 +1,8 @@
+{
+  "appId": "com.nicever.multillm",
+  "appName": "MultiLLM Chat",
+  "webDir": "www",
+  "plugins": {
+    "CapacitorHttp": { "enabled": true }
+  }
+}
